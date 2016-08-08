@@ -1,0 +1,20 @@
+{
+    "name": "commonhelp/filesystem",
+    "description": "Filesystem library",
+    "type": "library",
+    "require": {
+        "php": ">=5.4"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marco 'Marcoski' Trognoni",
+            "email": "mtrognon@commonhelp.it",
+            "homepage": "http://www.commonhelp.it",
+            "role": "Chief Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": { "Commonhelp\\Filesystem\\": "" }
+    }
+}
